@@ -1,1 +1,2 @@
 push 대상
+pull 대상
